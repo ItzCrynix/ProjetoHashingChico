@@ -1,0 +1,16 @@
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.exe
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.deps.json
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.runtimeconfig.json
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.runtimeconfig.dev.json
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.dll
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\bin\Debug\netcoreapp3.1\ExemploHashQuadratico.pdb
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.csproj.AssemblyReference.cache
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.formsHashQuad.resources
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.csproj.GenerateResource.cache
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.AssemblyInfoInputs.cache
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.AssemblyInfo.cs
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.csproj.CoreCompileInputs.cache
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.dll
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.pdb
+C:\Users\Ághata\source\repos\ExemploHashQuadratico\ExemploHashQuadratico\obj\Debug\netcoreapp3.1\ExemploHashQuadratico.genruntimeconfig.cache
